@@ -1,4 +1,4 @@
-<img src="img/react.svg" width="128"/> <img src="img/angular.svg" width="128"/> <img src="img/nodejs-original-wordmark.svg" width="128"/>
+<img src="img/devicons/react.svg" width="128"/> <img src="img/devicons/angular.svg" width="128"/> <img src="img/devicons/nodejs-original-wordmark.svg" width="128"/>
 
 # Developer Interview Questions
 
@@ -26,7 +26,13 @@ I wanted to collect a list that is up to date.
 
 ## License
 
+### Article
+
 Please see the [LICENSE file](LICENSE).
+
+### Developer icons
+
+Please see the [LICENSE file in img/devicons/](img/devicons/LICENSE).
 
 ## History
 
