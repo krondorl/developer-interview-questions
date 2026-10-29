@@ -30,9 +30,13 @@ I wanted to collect a list that is up to date.
 
 Please see the [LICENSE file](LICENSE).
 
-### Developer icons
+### Developer Icons
 
 Please see the [LICENSE file in img/devicons/](img/devicons/LICENSE).
+
+### Social Preview
+
+Please see the [LICENSE file in img/social/](img/social/LICENSE).
 
 ## History
 
