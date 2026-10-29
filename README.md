@@ -10,17 +10,19 @@ In many cases, an Internet search gives old content that is no longer relevant.
 
 I wanted to collect a list that is up to date.
 
-**Every link in this file is from 2024.**
+**Every link in this file is from 2026.**
 
 ## Frontend
 
-- [React.js interview questions and answers for 2024](https://www.turing.com/interview-questions/react-js)
-- [20 senior Angular developer interview questions and answers](https://aw.club/global/en/blog/senior-angular-developer-interview-questions)
-- [100+ Angular interview questions and answers for 2024](https://www.turing.com/interview-questions/angular)
+- [100+ React Interview Questions Straight from Ex-interviewers (2026)](https://www.greatfrontend.com/blog/100-react-interview-questions-straight-from-ex-interviewers)
+- [Angular Interview Questions (2026): From Fundamentals to Senior-Level Scenarios](https://arc.dev/employer-blog/angular-interview-questions-from-fundamentals-to-senior-level-scenarios/)
+- [TypeScript Interview Questions for Senior Developers (2026)](https://www.greatfrontend.com/blog/typescript-interview-questions-for-senior-frontend-developers)
 
 ## Backend
 
-- [Top 100 Node.js interview questions and answers in 2024](https://www.turing.com/interview-questions/node-js)
+- [Senior Node.js Developer Interview Questions: Advanced Topics and Answers](https://www.greatfrontend.com/blog/senior-nodejs-developer-interview-questions-advanced-topics-and-answers)
+- [Senior REST API Developer Interview Questions: Advanced Topics and Answers](https://www.greatfrontend.com/blog/senior-rest-api-developer-interview-questions-advanced-topics-and-answers)
+- [Java Interview Questions and Answers for 2 to 3 years Experienced: Top 50](https://www.founditgulf.com/career-advice/java-interview-questions-and-answers-for-2-to-3-years-experience/)
 
 ## License
 
