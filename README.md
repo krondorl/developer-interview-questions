@@ -1,4 +1,4 @@
-<img src="img/devicons/react.svg" width="128"/> <img src="img/devicons/angular.svg" width="128"/> <img src="img/devicons/nodejs-original-wordmark.svg" width="128"/>
+<img src="img/devicons/react.svg" width="128"/> <img src="img/devicons/angular.svg" width="128"/> <img src="img/devicons/nodejs-original-wordmark.svg" width="128"/> <img src="img/devicons/java-original-wordmark.svg" width="128"/>
 
 # Developer Interview Questions
 
